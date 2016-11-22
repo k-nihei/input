@@ -1,5 +1,6 @@
 <?php
 //LineBusinessCenter
+//https://business.line.me/
 $accessToken = 'biRBWFDIRC/y7mMI0IEPnthGKJ0xufOoS5UMEmO6rM5YmyG0aQprchXg/pOeCDg6gnXwyidzKalt4kE7bAbelkRh4koRxXZ3ZsyTG+0vYONTpmiICBnwdBBj+egv6YXF2YF5mAd3Ysm1drBWWIhUmgdB04t89/1O/w1cDnyilFU=';
 
 //ユーザーからのメッセージ取得
